@@ -1,0 +1,19 @@
+{
+  "name": "ramda-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ramda tools","ramda","helper","ramda helper","one file library"],
+  "author": "Nicolas Cloutier <nicknailers69@gmail.com>",
+  "license": "",
+  "devDependencies": {
+   "@types/ramda": "^0.26.40",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
